@@ -1,2 +1,2 @@
 # Illumina-scripts
-Useful script for Illumina
+Useful scripts for Illumina

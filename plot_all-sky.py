@@ -18,6 +18,8 @@ listes = [elevation, azimuth, wavelength]
 
 
 # SCÉNARIOS de conversions
+
+# VRM de la merde!
 S_Actu_Ete = "Documents/Results_Sherbrooke/Results/ete/data.txt"
 S_Actu_Hiver = "Documents/Results_Sherbrooke/Results/hiver/data.txt"
 S_2200k_Ete = "Documents/Results_alt_scen/Results/2200k_ete/data.txt"

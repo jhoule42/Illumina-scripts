@@ -18,10 +18,17 @@ listes = [elevation, azimuth, wavelength]
 
 
 # SCÉNARIOS de conversions
+<<<<<<< HEAD
 path = "/home/jhoule42/git/Illumina-scripts/Results-Sherbrooke"
 S_Actu_Ete = path + "ete/data.txt"
 S_Actu_Hiver = path + "hiver/data.txt"
 
+=======
+
+# VRM de la merde!
+S_Actu_Ete = "Documents/Results_Sherbrooke/Results/ete/data.txt"
+S_Actu_Hiver = "Documents/Results_Sherbrooke/Results/hiver/data.txt"
+>>>>>>> 5c9a48ef7d6774150ef63169b4a4e517dc5047c0
 S_2200k_Ete = "Documents/Results_alt_scen/Results/2200k_ete/data.txt"
 S_2200k_Hiver = "Documents/Results_alt_scen/Results/2200k_hiver/data.txt"
 S_2700k_Ete = "Documents/Results_alt_scen/Results/2700k_ete/data.txt"

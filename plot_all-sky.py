@@ -18,30 +18,27 @@ listes = [elevation, azimuth, wavelength]
 
 
 # SCÉNARIOS de conversions
-<<<<<<< HEAD
 path = "/home/jhoule42/git/Illumina-scripts/Results-Sherbrooke"
 S_Actu_Ete = path + "ete/data.txt"
 S_Actu_Hiver = path + "hiver/data.txt"
 
-=======
+# S_2200k_Ete = "Documents/Results_alt_scen/Results/2200k_ete/data.txt"
+# S_2200k_Hiver = "Documents/Results_alt_scen/Results/2200k_hiver/data.txt"
+# S_2700k_Ete = "Documents/Results_alt_scen/Results/2700k_ete/data.txt"
+# S_2700k_Hiver =  "Documents/Results_alt_scen/Results/2700k_hiver/data.txt"
+# S_3000k_Ete = "Documents/Results_alt_scen/Results/3000k_ete/data.txt"
+# S_3000k_Hiver = "Documents/Results_alt_scen/Results/3000k_hiver/data.txt"
+# S_Ambree_Ete = "Documents/Results_alt_scen/Results/Ambree_ete/data.txt"
+# S_Ambree_Hiver = "Documents/Results_alt_scen/Results/Ambree_hiver/data.txt"
 
-# VRM de la merde!
-S_Actu_Ete = "Documents/Results_Sherbrooke/Results/ete/data.txt"
-S_Actu_Hiver = "Documents/Results_Sherbrooke/Results/hiver/data.txt"
->>>>>>> 5c9a48ef7d6774150ef63169b4a4e517dc5047c0
-S_2200k_Ete = "Documents/Results_alt_scen/Results/2200k_ete/data.txt"
-S_2200k_Hiver = "Documents/Results_alt_scen/Results/2200k_hiver/data.txt"
-S_2700k_Ete = "Documents/Results_alt_scen/Results/2700k_ete/data.txt"
-S_2700k_Hiver =  "Documents/Results_alt_scen/Results/2700k_hiver/data.txt"
-S_3000k_Ete = "Documents/Results_alt_scen/Results/3000k_ete/data.txt"
-S_3000k_Hiver = "Documents/Results_alt_scen/Results/3000k_hiver/data.txt"
-S_Ambree_Ete = "Documents/Results_alt_scen/Results/Ambree_ete/data.txt"
-S_Ambree_Hiver = "Documents/Results_alt_scen/Results/Ambree_hiver/data.txt"
+liste_scenarios = [S_Actu_Ete, S_Actu_Hiver]
+nom_scenarios = ["Actu_Ete", "Actu_Hiver"]
 
-liste_scenarios = [S_Actu_Ete, S_Actu_Hiver, S_2200k_Ete, S_2200k_Hiver, S_2700k_Ete, S_2700k_Hiver,
-                       S_3000k_Ete, S_3000k_Hiver, S_Ambree_Ete, S_Ambree_Hiver]
-nom_scenarios  = ["Actu_Ete", "Actu_Hiver", "2200k_Ete", "2200k_Hiver", "2700k_Ete", "2700k_Hiver",
-                      "3000k_Ete", "3000k_Hiver", "Ambree_Ete", "Ambree_Hiver"]
+
+# liste_scenarios = [S_Actu_Ete, S_Actu_Hiver, S_2200k_Ete, S_2200k_Hiver, S_2700k_Ete, S_2700k_Hiver,
+# #                        S_3000k_Ete, S_3000k_Hiver, S_Ambree_Ete, S_Ambree_Hiver]
+# nom_scenarios  = ["Actu_Ete", "Actu_Hiver", "2200k_Ete", "2200k_Hiver", "2700k_Ete", "2700k_Hiver",
+#                       "3000k_Ete", "3000k_Hiver", "Ambree_Ete", "Ambree_Hiver"]
 
 #a = MSD.Open("Documents/Results_Sherbrooke/Results/ete/elevation_angle_90-azimuth_angle_0-wavelength_397.0.hdf5")
 

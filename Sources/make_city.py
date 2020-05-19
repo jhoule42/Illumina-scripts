@@ -20,7 +20,5 @@ for radius in [0.250, 1, 5, 10, 20, 30, 40, 50]:
     a.set_circle((0, distance/R), radius, 50)    R = rayon équatorial terre (6 371 km)
     a.save(“stable_lights”)
 
-
-
 subprocess.run(“~/hg/illumina/oiseaux/make_inputs.py”)
     os.rename(“Inputs”, “Inputs_%s_%s” % (radius, distance))

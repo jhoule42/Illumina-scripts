@@ -11,7 +11,7 @@ from glob import glob
 
 
 # Obtenir dict longueurs d'ondes / objet
-path_hdf5 = glob("*.hdf5")
+path_hdf5 = glob("*.hdf5", recursive = True)
 print(path_hdf5)
 
 MSD_dict = {int(s.split('_')[-1].split('.')[0]): MSD.Open(s) for s in path_hdf5}

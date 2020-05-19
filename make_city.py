@@ -21,6 +21,5 @@ for radius in [0.250, 1, 5, 10, 20, 30, 40, 50]:
     a.save(“stable_lights”)
 
 
-
 subprocess.run(“~/hg/illumina/oiseaux/make_inputs.py”)
     os.rename(“Inputs”, “Inputs_%s_%s” % (radius, distance))

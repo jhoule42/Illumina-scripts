@@ -1,0 +1,10 @@
+elevation_angle_90-azimuth_angle_0-wavelength_502.0	3.1047000000000002e-09
+elevation_angle_90-azimuth_angle_0-wavelength_607.0	1.5764e-08
+elevation_angle_90-azimuth_angle_0-wavelength_572.0	1.7666e-08
+elevation_angle_90-azimuth_angle_0-wavelength_397.0	1.239e-09
+elevation_angle_90-azimuth_angle_0-wavelength_432.0	2.8151e-09
+elevation_angle_90-azimuth_angle_0-wavelength_677.0	1.3103e-09
+elevation_angle_90-azimuth_angle_0-wavelength_642.0	3.4909999999999996e-09
+elevation_angle_90-azimuth_angle_0-wavelength_712.0	5.262e-10
+elevation_angle_90-azimuth_angle_0-wavelength_467.0	2.6482e-09
+elevation_angle_90-azimuth_angle_0-wavelength_537.0	3.054e-09
